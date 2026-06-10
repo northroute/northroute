@@ -234,7 +234,7 @@ Then make it beautiful.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-northroute-181717?style=for-the-badge&logo=github)](https://github.com/northroute)
-[![Email](https://img.shields.io/badge/Email-roman.popov121212%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roman.popov121212@gmail.com)
+[![Email](https://img.shields.io/badge/Email-north.route.free%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:north.route.free@gmail.com)
 
 </div>
 
