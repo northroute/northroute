@@ -196,16 +196,6 @@ A Godot Mono prototype where English skills are connected to game mechanics.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=northroute&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## 🧠 Currently Learning
 
 - production-ready CI/CD;
